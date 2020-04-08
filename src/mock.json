@@ -1,0 +1,31 @@
+{
+    "menus": [
+        {
+            "name": "首页",
+            "path": "/",
+            "icon": "home--fill",
+            "level": 1,
+            "sort": 0,
+            "menu_id": "1577759660462",
+            "parent_id": 0,
+            "children": [],
+            "mark": "/"
+        }
+    ],
+    "logo": {
+        "type": 2,
+        "image": "",
+        "text": "LOGO",
+        "query": {}
+    },
+    "menuCollapse": false,
+    "users": [
+        {
+            "avatar": "https://deepexi.oss-cn-shenzhen.aliyuncs.com/xpaas-console/user-portrait.png",
+            "name": "admin",
+            "urlType": 0,
+            "query": {},
+            "newWindow": false
+        }
+    ]
+}
